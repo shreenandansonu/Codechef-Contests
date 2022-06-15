@@ -9,7 +9,7 @@ for _ in range(int(input())):
             M.append("T")
         elif S[i]+S[i+1]=="10":
             M.append("C")
-        else:
+        elif S[i]+S[i+1]=="11":
             M.append("G")
     for y in M:
         print(y,end="")
