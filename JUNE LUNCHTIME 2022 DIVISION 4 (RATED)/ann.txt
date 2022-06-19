@@ -1,0 +1,1 @@
+The problem LOSTARRAY has been replaced by LOSTARRAY_ (with an underscore). LOSTARRAY_ is meant to be between the problems EQBYXOR and MAXCYCSHIFT in terms of difficulty. The contest is being extended by 10 minutes due to this issue. Apologies.
